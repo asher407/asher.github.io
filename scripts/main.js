@@ -2,7 +2,7 @@
 // myHeading.textContent = "Hello world!";
 
 const my_p = document.querySelector("p");
-my_p.textContent = "波波波波波门！";
+my_p.textContent = "波波波波波门！!";
 
 const myImage = document.querySelector("img");
 
